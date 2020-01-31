@@ -1,0 +1,28 @@
+id: a26c57106bb74501b497835de37bc488
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 7170e96916e440109f8409ab3527c5eb
+  span:
+    start: 4425
+    end: 4500
+- id: 5bb19aac844748aaa8707de0e982b697
+  span:
+    start: 199980
+    end: 200092
+- id: 961d8a8295a74865be3ab5fa2803c4bd
+  span:
+    start: 202554
+    end: 202670
+- id: f7dffa0b7f9c4902b743a07322d3d2ed
+  span:
+    start: 203114
+    end: 203173
+- id: 5fa5d183b37346f9b51e18ec91caec37
+  span:
+    start: 203783
+    end: 203840
+- id: 6c58f2da75bd4e739f3616d465912b75
+  span:
+    start: 203974
+    end: 204122
