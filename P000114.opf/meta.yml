@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000114
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དྭགས་པོ་ཆོས་བཞིའི་རྩ་བ་སྐྱེས་བུ་གསུམ་གྱི་ལམ་གྱི་མཆོག་རིན་པོ་ཆེའི་འཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-08
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: KS-PK-08
 web_metadata:
   title:
     en: Illuminating the Path for Three Scopes of Person:A Presentation of the Four
